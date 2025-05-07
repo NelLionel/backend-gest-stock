@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+uploads/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+lib/
+vendor/
+bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
